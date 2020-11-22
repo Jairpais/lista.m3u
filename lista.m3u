@@ -1,0 +1,199 @@
+#EXTM3U
+#EXTINF:0,Amc
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=7&f=.m3u8
+#EXTINF:0,A&e
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=1&f=.m3u8
+#EXTINF:0,Warner channenel
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=102&f=.m3u8
+#EXTINF:0,Fox Channel
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=57&f=.m3u8
+#EXTINF:0,Universal
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=106&f=.m3u8
+#EXTINF:0,Fox Life
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=65&f=.m3u8
+#EXTINF:0,Axn
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=2&f=.m3u8
+#EXTINF:0,Sony
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=120&f=.m3u8
+#EXTINF:0,Tnt
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=113&f=.m3u8
+#EXTINF:0,Space
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=119&f=.m3u8
+#EXTINF:0,Studio Universal
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=118&f=.m3u8
+#EXTINF:0,Fx
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=56&f=.m3u8
+#EXTINF:0,Fx Movie
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=78&f=.m3u8
+#EXTINF:0,Tbs
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=116&f=.m3u8
+#EXTINF:0,Tcm
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=115&f=.m3u8
+#EXTINF:0,Cine canal
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=22&f=.m3u8
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=316&f=.m3u8
+#EXTINF:0,Paramount
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=123&f=.m3u8
+#EXTINF:0,Comedy Central
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=123&f=.m3u8
+#EXTINF:0,Sundance tv
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=117&f=.m3u8
+#EXTINF:0,Cine Latino
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=23&f=.m3u8
+#EXTINF:0,Tnt Series
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=112&f=.m3u8
+#EXTINF:0,Fox Premium Action
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=58&f=.m3u8
+#EXTINF:0,Fox Premium Cinema
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=60&f=.m3u8
+#EXTINF:0,Fox Premium Cinema sub
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=61&f=.m3u8
+#EXTINF:0,Fox Premium Comedy
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=63&f=.m3u8
+#EXTINF:0,Fox Premium Classics
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=62&f=.m3u8
+#EXTINF:0,Fox Premium Family
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=64&f=.m3u8
+#EXTINF:0,Fox Premium Series
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=69&f=.m3u8
+#EXTINF:0,Fox Premium Series SUB
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=70&f=.m3u8
+#EXTINF:0,Fox Premium Movies
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=67&f=.m3u8
+#EXTINF:0,Golden
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=81&f=.m3u8
+#EXTINF:0,Golden Premier
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=82&f=.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=84&f=.m3u8
+#EXTINF:0,HBO SUB
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=88&f=.m3u8
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=85&f=.m3u8
+#EXTINF:0,HBO plus
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=89&f=.m3u8
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=86&f=.m3u8
+#EXTINF:0,HBO Signature
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=87&f=.m3u8
+#EXTINF:0,HBO Mundi
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=136&f=.m3u8
+#EXTINF:0,HBO Pop
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=134&f=.m3u8
+#EXTINF:0,Directv Sports
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=317&f=.m3u8
+#EXTINF:0,Directv sports-2
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=318&f=.m3u8
+#EXTINF:0,Fox Sports 1 [latm]
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=72&f=.m3u8
+#EXTINF:0,Fox Sports 2 [latm]
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=73&f=.m3u8
+#EXTINF:0,Fox Sports 3 [latm]
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=76&f=.m3u8
+#EXTINF:0,Fox Sports 1 [MEX]
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=75&f=.m3u8
+#EXTINF:0,Fox Sports 2 [MEX]
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=74&f=.m3u8
+#EXTINF:0,Fox Sports 3 [MEX]
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=71&f=.m3u8
+#EXTINF:0,Espn 1 (latm)
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=51&f=.m3u8
+#EXTINF:0,Espn 2 (latm)
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=52&f=.m3u8
+#EXTINF:0,Espn 3 (latm)
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=53&f=.m3u8
+#EXTINF:0,Espn Plus (latm)
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=54&f=.m3u8
+#EXTINF:0,Espn (MEX)
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=140&f=.m3u8
+#EXTINF:0,Espn 2 (MEX)
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=141&f=.m3u8
+#EXTINF:0,Espn 3 (MEX)
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=142&f=.m3u8
+#EXTINF:0,Univision TUDN
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=320&f=.m3u8
+#EXTINF:0,Claro Sports Latinoamerica
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=31&f=.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=98&f=.m3u8
+#EXTINF:0,MTV Live
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=133&f=.m3u8
+#EXTINF:0,MTV Hits
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=99&f=.m3u8
+#EXTINF:0,HTV
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=91&f=.m3u8
+#EXTINF:0,Vh1
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=104&f=.m3u8
+#EXTINF:0,Vh1 Classics
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=104&f=.m3u8
+#EXTINF:0,Concert Channel
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=33&f=.m3u8
+#EXTINF:0,La Teoria Del Big Bang
+#EXTVLCOPT:network-caching=1000
+https://tecnoplay.club/ggff/principal.php?c=293&f=.m3u8
